@@ -55,7 +55,7 @@ Meet us we are the $\color{red}{\text{HACKERS}}$....!!!
 
 <hr>
 
-<h2 align="center">💻 Tech Stack</h2>
+<h2 align="center">Tech Stack</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,arch,py,bash,git,github,vscode,html,css,kali,cpp,php,mysql" />
 </p>
