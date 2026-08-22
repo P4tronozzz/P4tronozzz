@@ -54,18 +54,16 @@ Meet us we are the $\color{red}{\text{HACKERS}}$....!!!
 
 
 <hr>
-
 <!-- TECH STACK (Ícones) -->
-<!-- TECH STACK (Ícones) -->
-<h2 align="center"> Tech Stack</h2>
+<h2 align="center">💻 Tech Stack</h2>
 <p align="center">
-  <!-- Adicionado 'cpp' na lista abaixo -->
-  <img src="https://skillicons.dev/icons?i=linux,arch,py,bash,git,github,vscode,html,css,kali,cpp" />
+  <!-- Adicionado 'php' e 'mysql' na lista -->
+  <img src="https://skillicons.dev/icons?i=linux,arch,py,bash,git,github,vscode,html,css,kali,cpp,php,mysql" />
 </p>
 
-<!-- FERRAMENTAS ESPECÍFICAS (Badges) -->
+<!-- FERRAMENTAS ESPECÍFICAS -->
 <p align="center">
-  <img src="https://img.shields.io/badge/John_The_Ripper-Red_Teaming-red?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/John_The_Ripper-Segurança_Ofensiva-red?style=for-the-badge&logo=kalilinux&logoColor=white" />
 </p>
 
 <hr>
