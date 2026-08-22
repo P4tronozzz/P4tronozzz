@@ -1,6 +1,6 @@
 <!-- BANNER SUPERIOR -->
 <p align="center">
-<img width="570" height="236" alt="08d86619-4fa5-4bbb-ac1e-fe88d3e10ed7" src="https://github.com/user-attachments/assets/d6253d19-304a-4726-a306-588f8c495454" />
+<img width="736" height="414" alt="Dude_stfu_pindown io_1787417735" src="https://github.com/user-attachments/assets/4a9b6b95-8e20-418b-8c4e-2570bf3a727a" />
 </p>
 
 <!-- TÍTULO E SUBTÍTULO -->
