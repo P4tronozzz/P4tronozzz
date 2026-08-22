@@ -22,9 +22,25 @@
 <table>
   <tr>
     <td width="60%">
-      <b>P4TR</b>, aqui — Um entusiasta de tecnologia focado em segurança ofensiva e sistemas Linux.<br><br>
-      Eu gosto de explorar vulnerabilidades, automatizar tarefas com scripts e customizar ambientes de trabalho (dotfiles).<br><br>
-      Atualmente, estou aprendendo <b>Python, Bash Scripting e Red Teaming</b>.
+      <b>P4TR<b>We are Cheaters....
+But we Don't Cheat Humanity..!
+
+We hate Study....
+But we Love Technology...!
+
+We Flirt with Flirters...
+But we are true lovers....!
+
+World can't change us....
+But we can change the world.....!
+
+We don't have books in hands.....
+But have revolutionary ideas in mind....!
+
+We are the rarest common race on earth.....!
+Meet us we are the $\color{red}{\text{HACKERS}}$....!!!
+
+./pcbots Lab's</b>.
     </td>
     <td width="40%">
       <img src="https://github.com/user-attachments/assets/fcafc7d6-0b7c-497d-b9ca-881a5998fdcc"width="100%">
@@ -35,17 +51,16 @@
 <hr>
 
 <!-- REDES SOCIAIS -->
-<h2 align="center">🤝 Connect</h2>
+<h2 align="center"> Connect</h2>
 <p align="center">
-  <a href="LINK_DO_SEU_LINKEDIN"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:SEU_EMAIL"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="LINK_DO_DISCORD"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="messias.rd904@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="discord.com/channels/@w7boss"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>
 
 <hr>
 
 <!-- TECH STACK (Ícones) -->
-<h2 align="center">💻 Tech Stack</h2>
+<h2 align="center">Tech Stack</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,arch,py,bash,git,github,vscode,html,css,kali" />
 </p>
@@ -60,7 +75,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=P4tronozzz&theme=tokyonight&hide_border=true" alt="Streak" />
 </p>
 
-<!-- GRÁFICO DE ATIVIDADE -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=P4tronozzz&theme=tokyonight&hide_border=true&area=true" width="100%">
-</p>
