@@ -17,7 +17,7 @@
 <hr>
 
 <!-- SEÇÃO ABOUT ME (Lado a Lado) -->
-## 🚀 About Me
+
 
 <table>
   <tr>
@@ -51,12 +51,7 @@ Meet us we are the $\color{red}{\text{HACKERS}}$....!!!
 
 <hr>
 
-<!-- REDES SOCIAIS -->
-<h2 align="center"> Connect</h2>
-<p align="center">
-  <a href="messias.rd904@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="discord.com/channels/@w7boss"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-</p>
+
 
 <hr>
 
