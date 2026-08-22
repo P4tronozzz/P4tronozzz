@@ -1,4 +1,4 @@
-<img width="1728" height="1080" alt="karelzzzz_pindown io_1787417213" src="https://github.com/user-attachments/assets/04d5d780-6d60-422d-969b-0936774ee755" />
+<img width="703" height="369" alt="Ninjaide_pindown io_1787417483" src="https://github.com/user-attachments/assets/23c3224a-4a60-4245-8d8e-9007c06ebfae" />
 
 
 <!--
