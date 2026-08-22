@@ -1,6 +1,6 @@
 <!-- BANNER SUPERIOR -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/cb283074-da4b-4c84-a913-339166db363c" width="100%" alt="Banner">
+<img width="734" height="378" alt="Minimalist Twitch Panels with Cyberpunk Pixel Art _ Download Unique Designs" src="https://github.com/user-attachments/assets/c926b89e-58e3-4a6b-baf2-734054e36c7b" />
 </p>
 
 <!-- TÍTULO E SUBTÍTULO -->
