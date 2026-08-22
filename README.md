@@ -40,12 +40,12 @@ But have revolutionary ideas in mind....!
 We are the rarest common race on earth.....!
 Meet us we are the $\color{red}{\text{HACKERS}}$....!!!
 
-./pcbots Lab's</b>.
+</b>.
     </td>
     <td width="40%">
       <img width="500" height="333" alt="1052083162968693742" src="https://github.com/user-attachments/assets/b6a1f603-2043-40a1-a3d7-5f0bc75d605f" />
 
-    </td>
+    
   </tr>
 </table>
 
