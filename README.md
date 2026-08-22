@@ -1,4 +1,4 @@
-<!-- BANNER SUPERIOR -->
+
 <p align="center">
 <img width="736" height="414" alt="Dude_stfu_pindown io_1787417735" src="https://github.com/user-attachments/assets/4a9b6b95-8e20-418b-8c4e-2570bf3a727a" />
 </p>
@@ -16,7 +16,7 @@
 
 <hr>
 
-<!-- SEÇÃO ABOUT ME (Lado a Lado) -->
+
 
 
 <table>
@@ -54,14 +54,12 @@ Meet us we are the $\color{red}{\text{HACKERS}}$....!!!
 
 
 <hr>
-<!-- TECH STACK (Ícones) -->
+
 <h2 align="center">💻 Tech Stack</h2>
 <p align="center">
-  <!-- Adicionado 'php' e 'mysql' na lista -->
   <img src="https://skillicons.dev/icons?i=linux,arch,py,bash,git,github,vscode,html,css,kali,cpp,php,mysql" />
 </p>
 
-<!-- FERRAMENTAS ESPECÍFICAS -->
 <p align="center">
   <img src="https://img.shields.io/badge/John_The_Ripper-Segurança_Ofensiva-red?style=for-the-badge&logo=kalilinux&logoColor=white" />
 </p>
