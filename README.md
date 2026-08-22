@@ -4,7 +4,7 @@
 </p>
 
 <!-- TÍTULO E SUBTÍTULO -->
-<h1 align="center">Hi 👋, Imma P4TR</h1>
+<h1 align="center"> P4TR</h1>
 <p align="center">
   <b>Cybersecurity Student | Arch Linux Enthusiast</b><br>
   <i>"I don’t break into systems. I find what they tried to hide."</i>
