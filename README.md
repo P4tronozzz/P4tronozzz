@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, Imma P4TR</h1>
 <p align="center">
   <b>Cybersecurity Student | Arch Linux Enthusiast</b><br>
-  <i>"Frase de efeito aqui"</i>
+  <i>"I don’t break into systems. I find what they tried to hide."</i>
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@
       Atualmente, estou aprendendo <b>Python, Bash Scripting e Red Teaming</b>.
     </td>
     <td width="40%">
-      <img src="LINK_DE_UMA_IMAGEM_MENOR_AQUI" width="100%">
+      <img src="https://github.com/user-attachments/assets/fcafc7d6-0b7c-497d-b9ca-881a5998fdcc"width="100%">
     </td>
   </tr>
 </table>
