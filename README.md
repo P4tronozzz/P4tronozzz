@@ -22,7 +22,7 @@
 <table>
   <tr>
     <td width="60%">
-      <b>P4TR<b>We are Cheaters....
+      <b>P4TR<b>
 But we Don't Cheat Humanity..!
 
 We hate Study....
@@ -40,7 +40,7 @@ But have revolutionary ideas in mind....!
 We are the rarest common race on earth.....!
 Meet us we are the $\color{red}{\text{HACKERS}}$....!!!
 
-./pcbots Lab's</b>.
+</b>.
     </td>
     <td width="40%">
       <img src="https://github.com/user-attachments/assets/fcafc7d6-0b7c-497d-b9ca-881a5998fdcc"width="100%">
