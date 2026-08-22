@@ -1,1 +1,66 @@
-<img width="736" height="414" alt="Dude_stfu_pindown io_1787417735" src="https://github.com/user-attachments/assets/cb283074-da4b-4c84-a913-339166db363c" />
+<!-- BANNER SUPERIOR -->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cb283074-da4b-4c84-a913-339166db363c" width="100%" alt="Banner">
+</p>
+
+<!-- TÍTULO E SUBTÍTULO -->
+<h1 align="center">Hi 👋, Imma P4TR</h1>
+<p align="center">
+  <b>Cybersecurity Student | Arch Linux Enthusiast</b><br>
+  <i>"Frase de efeito aqui"</i>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Building_Systems-blue?style=flat-square" alt="Status">
+</p>
+
+<hr>
+
+<!-- SEÇÃO ABOUT ME (Lado a Lado) -->
+## 🚀 About Me
+
+<table>
+  <tr>
+    <td width="60%">
+      <b>P4TR</b>, aqui — Um entusiasta de tecnologia focado em segurança ofensiva e sistemas Linux.<br><br>
+      Eu gosto de explorar vulnerabilidades, automatizar tarefas com scripts e customizar ambientes de trabalho (dotfiles).<br><br>
+      Atualmente, estou aprendendo <b>Python, Bash Scripting e Red Teaming</b>.
+    </td>
+    <td width="40%">
+      <img src="LINK_DE_UMA_IMAGEM_MENOR_AQUI" width="100%">
+    </td>
+  </tr>
+</table>
+
+<hr>
+
+<!-- REDES SOCIAIS -->
+<h2 align="center">🤝 Connect</h2>
+<p align="center">
+  <a href="LINK_DO_SEU_LINKEDIN"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:SEU_EMAIL"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="LINK_DO_DISCORD"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+</p>
+
+<hr>
+
+<!-- TECH STACK (Ícones) -->
+<h2 align="center">💻 Tech Stack</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,arch,py,bash,git,github,vscode,html,css,kali" />
+</p>
+
+<hr>
+
+<!-- STATUS DO GITHUB (CARDS DINÂMICOS) -->
+<h2 align="center">📊 GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=P4tronozzz&show_icons=true&theme=tokyonight&hide_border=true&align=center" alt="Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=P4tronozzz&theme=tokyonight&hide_border=true" alt="Streak" />
+</p>
+
+<!-- GRÁFICO DE ATIVIDADE -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=P4tronozzz&theme=tokyonight&hide_border=true&area=true" width="100%">
+</p>
