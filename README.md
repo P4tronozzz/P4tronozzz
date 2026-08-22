@@ -69,27 +69,3 @@ Meet us we are the $\color{red}{\text{HACKERS}}$....!!!
 </p>
 
 <hr>
-
-<!-- STATUS DO GITHUB (CARDS DINÂMICOS) -->
-<!-- TÍTULO ESTILO TERMINAL -->
-<h2 align="center">
-  <code>[root@P4tronozzz ~]# fetch --system-stats</code>
-</h2>
-
-<p align="center">
-  <!-- CARD DE STATUS PRINCIPAL (Tema Hacker) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=P4tronozzz&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Stats" height="180px" />
-  
-  <!-- CARD DE LINGUAGENS (O que você mais usa) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=P4tronozzz&layout=compact&theme=radical&hide_border=true" alt="Top Langs" height="180px" />
-</p>
-
-<p align="center">
-  <!-- O CARD DE STREAK (Aquele da sua foto, mas com tema Neon) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=P4tronozzz&theme=radical&hide_border=true" alt="Streak" />
-</p>
-
-<!-- GRÁFICO DE ATIVIDADE ESTILO MATRIZ -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=P4tronozzz&theme=cyan-metropolis&hide_border=true&area=true" width="100%">
-</p>
